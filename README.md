@@ -1,14 +1,16 @@
 # snapchatui
 
-Happy Learning 👍
+A new Flutter project.
 
-<br>
- 
-Subscribe Now! <a href="https://www.youtube.com/channel/UCknAgO0AdG61Yd1G7D1Arxg">BackSlash Flutter YouTube Channel</a>
-Show some :heart: and star the repo to support the project
+## Getting Started
 
-[![GitHub stars](https://img.shields.io/github/stars/backslashflutter/userlocation-flutter.svg?style=social&label=Star)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub forks](https://img.shields.io/github/forks/backslashflutter/userlocation-flutter.svg?style=social&label=Fork)](https://github.com/backslashflutter/userlocation-flutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/backslashflutter/userlocation-flutter.svg?style=social&label=Watch)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub followers](https://img.shields.io/github/followers/backslashflutter.svg?style=social&label=Follow)](https://github.com/backslashflutter/userlocation-flutter)
-[![Reddit Follow](https://img.shields.io/reddit/user-karma/link/backslashflutter?style=social)](https://www.reddit.com/user/backslashflutter)
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-<h3>Stay Healthy!✨Stay Safe!🖖</h3>
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
